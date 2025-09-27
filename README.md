@@ -7,14 +7,14 @@
 
 - 📊 **Passionate about data visualization & analytics**
   
-- 🤖 **Exploring AI & Machine Learning (while also learning automation & web basics)
+- 🤖 **Exploring AI & Machine Learning (while also learning automation & web basics)**
 
 - 🎯 **Goal: Build impactful projects and grow as an AI/ML professional**
 
 ## 🛠️ Tech Stack  
 - **Languages:** Python, SQL, HTML, CSS  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- Tools:** Jupyter Notebook  
+- **Tools:** Jupyter Notebook , VS Code , Power BI
 - **Learning Next:** Scikit-learn, TensorFlow, PyTorch  
 
 <h3 align="left">Languages and Tools:</h3>
